@@ -12,6 +12,7 @@ as perguntas podem abordar:
 
 * 🌐 redes
 * 🛡️ cybersecurity
+* 🖥️ programação
 * 🐧 linux
 * 🐍 python
 * 🔐 segurança da informação
